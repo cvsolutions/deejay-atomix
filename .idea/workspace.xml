@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19517381-4f15-470e-9cb3-c407c188a53b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/album.htm" beforeDir="false" afterPath="$PROJECT_DIR$/album.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biografia.htm" beforeDir="false" afterPath="$PROJECT_DIR$/biografia.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contatti.htm" beforeDir="false" afterPath="$PROJECT_DIR$/contatti.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feste.htm" beforeDir="false" afterPath="$PROJECT_DIR$/feste.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotografie.htm" beforeDir="false" afterPath="$PROJECT_DIR$/fotografie.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappa.htm" beforeDir="false" afterPath="$PROJECT_DIR$/mappa.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prezzi.htm" beforeDir="false" afterPath="$PROJECT_DIR$/prezzi.htm" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609056613902</updated>
       <workItem from="1609056622128" duration="35000" />
+      <workItem from="1609228526308" duration="536000" />
     </task>
     <servers />
   </component>
